@@ -1,0 +1,30 @@
+accession_name,species_name,organization_name.s.,synonym.s.,location_code.s.,ploidy_level.s.,ploidy_level.s..1,institute_code.s.,institute_code.s..1,notes.s.,purdy_pedigree,no.plots,accession_no
+Baker,Avena sativa,University of Illinois,Baker,NA,NA,NA,UIUC,University of Illinois,NA,Blaze/Vista,3,1
+Buckskin,Avena sativa,University of Illinois,Buckskin,NA,NA,NA,UIUC,University of Illinois,NA,Assiniboia/92-6728,3,2
+Colt,Avena sativa,University of Illinois,Colt,NA,NA,NA,UIUC,University of Illinois,NA,SD97575/Morton,3,3
+Deon,Avena sativa,University of Illinois,Deon,NA,NA,NA,UIUC,University of Illinois,NA,Sesqui*2/Bettong//MN02108,3,4
+Esker,Avena sativa,University of Illinois,Esker,NA,NA,NA,UIUC,University of Illinois,NA,Jim/Gem,3,5
+Excel,Avena sativa,University of Illinois,Excel,NA,NA,NA,UIUC,University of Illinois,NA,Jay/5/IL79-4924/Classic/4/WIX6141-2//INO9201*2/Newdak/3/ND881374/ND880107,3,6
+Hayden,Avena sativa,University of Illinois,Hayden,NA,NA,NA,UIUC,University of Illinois,NA,testedasSD111972,3,7
+Horsepower,Avena sativa,University of Illinois,Horsepower,NA,NA,NA,UIUC,University of Illinois,NA,SD030888-17//SD30888-17/ND030349,3,8
+Natty,Avena sativa,University of Illinois,Natty,NA,NA,NA,UIUC,University of Illinois,NA,SD020701//SD030888/ND030349,3,9
+Ogle,Avena sativa,University of Illinois,Ogle,NA,NA,NA,UIUC,University of Illinois,NA,Brave/2/Tyler/Egdolon23,3,10
+Reins,Avena sativa,University of Illinois,Reins,NA,NA,NA,UIUC,University of Illinois,NA,IL00-4827/BUCKSKIN,3,11
+Rushmore,Avena sativa,University of Illinois,Rushmore,NA,NA,NA,UIUC,University of Illinois,NA,SD080015//SD070110/SD060130,3,12
+Saber,Avena sativa,University of Illinois,Saber,NA,NA,NA,UIUC,University of Illinois,NA,Tack/Spurs,3,13
+Saddle,Avena sativa,University of Illinois,Saddle,NA,NA,NA,UIUC,University of Illinois,NA,IL02-8658/SD060130,3,14
+Spurs,Avena sativa,University of Illinois,Spurs,NA,NA,NA,UIUC,University of Illinois,NA,Jay/Rodeo,3,15
+Warrior,Avena sativa,University of Illinois,Warrior,NA,NA,NA,UIUC,University of Illinois,NA,SD041405/SD060130,3,16
+Goliath,Avena sativa,University of Illinois,Goliath,NA,NA,NA,UIUC,University of Illinois,NA,IL99-1338/SD97575-38-154,3,17
+Newburg,Avena sativa,University of Illinois,Newburg,NA,NA,NA,UIUC,University of Illinois,NA,HIFI/ND990232,3,18
+Leggett,Avena sativa,University of Illinois,Leggett,NA,NA,NA,UIUC,University of Illinois,NA,OT294/PC94,3,19
+Corral,Avena sativa,University of Illinois,Corral,NA,NA,NA,UIUC,University of Illinois,NA,IL95-4774/IL95-8346,3,20
+IL17-7334,Avena sativa,University of Illinois,IL17-7334,NA,NA,NA,UIUC,University of Illinois,NA,11-6458/05-10015,3,21
+IL17-5238,Avena sativa,University of Illinois,IL17-5238,NA,NA,NA,UIUC,University of Illinois,NA,10-9867/12-5568,3,22
+IL17-7339,Avena sativa,University of Illinois,IL17-7339,NA,NA,NA,UIUC,University of Illinois,NA,11-6458/05-10015,3,23
+IL17-1253,Avena sativa,University of Illinois,IL17-1253,NA,NA,NA,UIUC,University of Illinois,NA,Corral/12-8561,3,24
+Austrian,Pisum sativum,NA,Austrian,NA,NA,NA,NA,NA,NA,NA,3,25
+FrostMasters,Pisum sativum,NA,FrostMasters,NA,NA,NA,NA,NA,NA,NA,3,26
+Whistler,Pisum sativum,NA,Whistler,NA,NA,NA,NA,NA,NA,NA,3,27
+Windham,Pisum sativum,NA,Windham,NA,NA,NA,NA,NA,NA,NA,3,28
+Arvika/4010,Pisum sativum,NA,Arvika/4010,NA,NA,NA,NA,NA,NA,NA,3,29
