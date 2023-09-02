@@ -7,21 +7,25 @@ here::i_am("code/AlgDesign2023Intercrop.R")
 library("AlgDesign")
 library("tidyverse")
 
-nLoc <- 5
-nOat <- 48
-nPea <- 12
 plotsPerLoc <- 96
 plotsPerIncBlk <- 24
 incBlkPerLoc <- plotsPerLoc / plotsPerIncBlk
+nTrials <- plotsPerLoc*nLoc
 
 # Design just for oat and pea then block by location
-fullFactOP <- gen.factorial(c(nOat, nPea), factors="all", varNames=c("oatEntry", "peaEntry"))
+fullFactOP <- gen.factorial(c(nOat, nPea), factors="all",
+                            varNames=c("oatEntry", "peaEntry"))
+# Make sure you have enough possibilities to not get this error:
+# "nTrials must not be greater than the number of rows in data"
+if (nrow(fullFactOP) < nTrials) fullFactOP <- rbind(fullFactOP, fullFactOP)
+
 checkInter <- checkInter %>%
   mutate(oatEntry=factor(oatEntry, levels=levels(fullFactOP$oatEntry)),
          peaEntry=factor(peaEntry, levels=levels(fullFactOP$peaEntry)),
          isCheck=1)
 
-designOP <- optFederov(frml=as.formula("~ oatEntry + peaEntry"), data=fullFactOP, nTrials=plotsPerLoc*nLoc)
+designOP <- optFederov(frml=as.formula("~ oatEntry + peaEntry"),
+                       data=fullFactOP, nTrials=plotsPerLoc*nLoc)
 
 design <- designOP$design
 

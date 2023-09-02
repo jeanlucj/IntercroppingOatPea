@@ -1,0 +1,25 @@
+variety,source,type,status,pounds
+AUSTRIAN FIELD PEAS,Territorial,forage,arrived,10
+delta field pea,albert lea,field,arrived,50
+DS Admiral,albert lea,field,arrived,50
+Icicle Winter Peas,albert lea,forage,arrived,50
+Organic 4010,groworganic.com,forage,shipped,10
+Frostmaster Peas,groworganic.com,forage,shipped,10
+NDP150412G,Nonoy,field,"shipped, FedEx tracking #7715 3410 6314",10
+NDP150231Y,Nonoy,field,"shipped, FedEx tracking #7715 3410 6314",10
+NDP140510Y,Nonoy,field,"shipped, FedEx tracking #7715 3410 6314",10
+ND Dawn,Nonoy,field,"shipped, FedEx tracking #7715 3410 6314",10
+ND Victory,Nonoy,field,"shipped, FedEx tracking #7715 3410 6314",10
+Maxum,Johnny's,field,shipped,10
+,,,,
+Arcadia,Pulse USA,field,"ready, need MTA from Cornell",10
+DS Admiral,Pulse USA,field,"ready, need MTA from Cornell",10
+Durwood,Pulse USA,field,"ready, need MTA from Cornell",10
+LG Koda,Pulse USA,field,"ready, need MTA from Cornell",10
+LG Sunrise,Pulse USA,field,"ready, need MTA from Cornell",10
+Max,Pulse USA,forage,"ready, need MTA from Cornell",10
+Fergie,Pulse USA,forage,"ready, need MTA from Cornell",10
+CDC Inca,Meridian,field,"available, getting MTA from source",10
+CDC Amarillo,Meridian,field,"available, getting MTA from source",10
+AC Earlystar,Meridian,field,"available, getting MTA from source",10
+AAC Carver,Meridian,field,"available, getting MTA from source",10
