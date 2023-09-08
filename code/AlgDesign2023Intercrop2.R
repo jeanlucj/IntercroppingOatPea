@@ -2,7 +2,7 @@ args <- commandArgs(trailingOnly = TRUE)
 iter <- 1
 if (length(args) > 0) iter <- args[1]
 
-here::i_am("code/AlgDesign2023Intercrop.R")
+here::i_am("code/AlgDesign2023Intercrop2.R")
 
 library("AlgDesign")
 library("tidyverse")
