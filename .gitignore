@@ -10,3 +10,9 @@ analysis/*html
 analysis/*_cache
 analysis/site_libs
 output
+Omega_1.dat
+Omega_2.dat
+Omega_3.dat
+Omega_4.dat
+R.dat
+mu.dat
